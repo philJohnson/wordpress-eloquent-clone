@@ -1,5 +1,5 @@
 {
-    "name": "phillipJohnson/wordpress-eloquent-clone",
+    "name": "phillipjohnson/wordpress-eloquent-clone",
     "description": "A Laravel wrapper for wordpress which turns all Wordpress models into Laravel Eloquent Models.",
     "keywords": ["wordpress", "eloquent", "laravel"],
     "homepage": "https://github.com/drewjbartlett/wordpress-eloquent",
